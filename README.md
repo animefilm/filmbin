@@ -1,4 +1,4 @@
-# filmbin App term of service
+# Bin team Apps term of service
 
 # The App
 
